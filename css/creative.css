@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v5.0.1 (https://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
@@ -17,7 +17,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #e20514;
+  border-color: #a4191a;
 }
 
 hr.light {
@@ -25,13 +25,13 @@ hr.light {
 }
 
 a {
-  color: #e20514;
+  color: #a4191a;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #e20514;
+  color: #a4191a;
 }
 
 h1,
@@ -44,7 +44,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #e20514 !important;
+  background-color: #a4191a !important;
 }
 
 .bg-dark {
@@ -137,12 +137,12 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #e20514;
+  color: #a4191a;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #e20514;
+  color: #a4191a;
 }
 
 #mainNav .navbar-brand__logo {
@@ -159,12 +159,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #e20514;
+  color: #a4191a;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #e20514 !important;
+  color: #a4191a !important;
   background-color: transparent;
 }
 
@@ -203,10 +203,10 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #e20514;
+    color: #a4191a;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #e20514;
+    color: #a4191a;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -214,7 +214,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #e20514;
+    color: #a4191a;
   }
 }
 
@@ -282,7 +282,7 @@ header.masthead .heading-reg {
 }
 
 #oneToOne {
-  background-color: #e20514;
+  background-color: #a4191a;
 }
 
 .testimonials {
@@ -293,11 +293,11 @@ header.masthead .heading-reg {
 }
 
 #workshops {
-  background-color: #e20514;
+  background-color: #a4191a;
 }
 
 #syndrome {
-  background-color: #e20514;
+  background-color: #a4191a;
 }
 
 #about-rowan {
@@ -305,7 +305,7 @@ header.masthead .heading-reg {
 }
 
 .text-primary {
-  color: #e20514 !important;
+  color: #a4191a !important;
 }
 
 .btn {
@@ -321,13 +321,13 @@ header.masthead .heading-reg {
 }
 
 .btn-primary {
-  background-color: #e20514;
-  border-color: #e20514;
+  background-color: #a4191a;
+  border-color: #a4191a;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #c90412 !important;
+  background-color: #8e1616 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
